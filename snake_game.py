@@ -1,3 +1,12 @@
+"""
+Baby Snake Game
+Built during Stanford Code in Place - CS106A Final Project
+Author: Satyam Gupta
+
+Controls: Arrow Keys
+Goal: Eat the red goal, avoid walls.
+"""
+
 from graphics import Canvas
 import time
 import random
